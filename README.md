@@ -1,5 +1,5 @@
 # podman-in-podman-bug
-Repo to exhibit the podman in podman bug
+Repo to exhibit the podman in podman docker pull "error processing tar file" bug
 
 podman pull on certain images results in something like:
 
