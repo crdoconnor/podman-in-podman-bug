@@ -10,3 +10,5 @@ Error: writing blob: adding layer with blob "sha256:64d0f1d7987a219c326033c9cf22
 To reproduce the bug check out this repo and run "./setup.sh" followed by "./exhibitbug.sh".
 
 This bug has been verified on Ubuntu 22.04 on Intel and on Mac M1.
+
+Link to bug : https://github.com/containers/podman/issues/15224
